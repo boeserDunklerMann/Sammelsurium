@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DA.Commons.Hodgepodge.NetCore</id>
+    <version>1.0.0</version>
+    <authors>DA.Commons.Hodgepodge.NetCore</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="file">LICENSE.md</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="X:\gitRepositories.owngit\DA.Commons.Hodgepodge\binR\netcoreapp3.1\DA.Commons.Hodgepodge.NetCore.dll" target="lib\netcoreapp3.1\DA.Commons.Hodgepodge.NetCore.dll" />
+    <file src="X:\gitRepositories.owngit\DA.Commons.Hodgepodge\LICENSE.md" target="LICENSE.md" />
+  </files>
+</package>

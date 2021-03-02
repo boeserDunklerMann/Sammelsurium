@@ -1,0 +1,9 @@
+X:\gitRepositories.owngit\DA.Commons.Hodgepodge\binR\netcoreapp3.1\DA.Commons.Hodgepodge.NetCore.deps.json
+X:\gitRepositories.owngit\DA.Commons.Hodgepodge\binR\netcoreapp3.1\DA.Commons.Hodgepodge.NetCore.dll
+X:\gitRepositories.owngit\DA.Commons.Hodgepodge\binR\netcoreapp3.1\DA.Commons.Hodgepodge.NetCore.pdb
+X:\gitRepositories.owngit\DA.Commons.Hodgepodge\DA.Commons.Hodgepodge.NetCore\obj\Release\netcoreapp3.1\DA.Commons.Hodgepodge.NetCore.csprojAssemblyReference.cache
+X:\gitRepositories.owngit\DA.Commons.Hodgepodge\DA.Commons.Hodgepodge.NetCore\obj\Release\netcoreapp3.1\DA.Commons.Hodgepodge.NetCore.AssemblyInfoInputs.cache
+X:\gitRepositories.owngit\DA.Commons.Hodgepodge\DA.Commons.Hodgepodge.NetCore\obj\Release\netcoreapp3.1\DA.Commons.Hodgepodge.NetCore.AssemblyInfo.cs
+X:\gitRepositories.owngit\DA.Commons.Hodgepodge\DA.Commons.Hodgepodge.NetCore\obj\Release\netcoreapp3.1\DA.Commons.Hodgepodge.NetCore.csproj.CoreCompileInputs.cache
+X:\gitRepositories.owngit\DA.Commons.Hodgepodge\DA.Commons.Hodgepodge.NetCore\obj\Release\netcoreapp3.1\DA.Commons.Hodgepodge.NetCore.dll
+X:\gitRepositories.owngit\DA.Commons.Hodgepodge\DA.Commons.Hodgepodge.NetCore\obj\Release\netcoreapp3.1\DA.Commons.Hodgepodge.NetCore.pdb
